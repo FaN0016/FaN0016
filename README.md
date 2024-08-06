@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @FaN0016
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deployment on Tensorflow
-- 📫 How to reach me discord FaN0016#0600
+- - IDK WHAT TO WRITE HERE - -
 
 
 <!---
